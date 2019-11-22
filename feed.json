@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Etiny Worldbridger Produtions",
+    "description": "",
+    "home_page_url": "",
+    "feed_url": "/feed.json",
+    "user_comment": "",
+    "icon": "/media/website/etiny_world_bridger_productions.png",
+    "author": {
+        "name": "MGWKW"
+    },
+    "items": [
+        {
+            "id": "/shadow-self-cypher-series.html",
+            "url": "/shadow-self-cypher-series.html",
+            "title": "Shadow Self Cypher Series ",
+            "summary": "Poems, raps. freestyles and audio sampes are saved unedited in ssouldcloud at this time. ",
+            "content_html": "<p>Poems, raps. freestyles and audio sampes are saved unedited in ssouldcloud at this time.</p>\n<p> </p>\n<p> <iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/879565513&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe></p>\n<p> </p>",
+            "image": "/media/posts/1/addiction_poetic_series_2-of-13_flier.png",
+            "author": {
+                "name": "MGWKW"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-05T13:06:43-04:00",
+            "date_modified": "2019-10-11T11:45:24-04:00"
+        }
+    ]
+}

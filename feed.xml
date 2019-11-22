@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Etiny Worldbridger Produtions</title>
+    <link href="/feed.xml" rel="self" />
+    <link href="" />
+    <updated>2019-11-22T11:12:03-05:00</updated>
+    <author>
+        <name>MGWKW</name>
+    </author>
+    <id></id>
+
+    <entry>
+        <title>Shadow Self Cypher Series </title>
+        <author>
+            <name>MGWKW</name>
+        </author>
+        <link href="/shadow-self-cypher-series.html"/>
+        <id>/shadow-self-cypher-series.html</id>
+
+        <updated>2019-10-11T11:45:24-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/1/addiction_poetic_series_2-of-13_flier.png" alt="" />
+                    Poems, raps. freestyles and audio sampes are saved unedited in ssouldcloud at this time. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/1/addiction_poetic_series_2-of-13_flier.png" alt="" />
+                <p>Poems, raps. freestyles and audio sampes are saved unedited in ssouldcloud at this time.</p>
+<p> </p>
+<p> <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/879565513&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
